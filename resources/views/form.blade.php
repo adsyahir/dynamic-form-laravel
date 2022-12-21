@@ -8,7 +8,7 @@
 
 <body> 
     
-    <div class="container w-25  mx-auto rounded-lg shadow-lg bg-white p-4 mt-5">
+    <div class="container mx-auto 	rounded-lg shadow-lg bg-white p-4 mt-5">
 
         <div class="row">
             <div class="col-6">
